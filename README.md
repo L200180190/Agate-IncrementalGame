@@ -1,4 +1,4 @@
 # Agate-IncrementalGame
 
-Ulin Nuha Trisiana
+Ulin Nuha Trisiana, 
 ID : 406
