@@ -1,4 +1,4 @@
 # Agate-IncrementalGame
 
-# Nama : Ulin Nuha Trisiana
-# ID : 406
+#Nama : Ulin Nuha Trisiana
+#ID : 406
